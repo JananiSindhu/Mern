@@ -1,0 +1,7 @@
+.bgcontainer{
+    background: url("https://ik.imagekit.io/pigjftpvnh/todolistbg.webp");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 800px;
+    width: 375px;
+}
